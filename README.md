@@ -1,2 +1,2 @@
-# Unsupervised_FiningDonors_
-Project1 | Unsupervised Learning | Fining Donors
+# Supervised_FiningDonors_
+Project1 | Supervised Learning | Fining Donors
